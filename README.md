@@ -29,6 +29,22 @@ Success!
 ✨  Have fun developing!
 ```
 
+## Installation
+
+```
+npm install -g npm-fix-cli
+```
+
+## Usage
+
+To use `npm-fix`, run the command after installing it on your computer:
+
+```
+npm-fix
+```
+
+### Note
+
 Only use this if `npm` is giving you issues. Otherwise, opt for:
 
 ```
@@ -39,18 +55,4 @@ Or:
 
 ```
 npm ci
-```
-
-## Installation
-
-```
-npm install -g npm-fix
-```
-
-## Usage
-
-To use `npm-fix`, run the command after installing it on your computer:
-
-```
-npm-fix
 ```
