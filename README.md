@@ -2,6 +2,8 @@
 
 > A quick way to reset npm dependencies in your project
 
+[![npm version](https://badge.fury.io/js/npm-fix-cli.svg)](https://badge.fury.io/js/npm-fix-cli)
+
 - Removes `package-lock.json`
 - Removes `node_modules`
 - Downloads dependencies again
