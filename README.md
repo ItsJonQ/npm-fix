@@ -32,7 +32,7 @@ Success!
 Only use this if `npm` is giving you issues. Otherwise, opt for:
 
 ```
-npm install`
+npm install
 ```
 
 Or:
