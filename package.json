@@ -1,6 +1,6 @@
 {
   "name": "npm-fix-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "description": "A quick way to blow up reset npm dependencies in your project.",
   "bin": {
