@@ -6,7 +6,7 @@ const Listr = require("listr");
 const isOnline = require("is-online");
 
 async function execPrestart() {
-  console.log("📦 ", "", chalk.bold("NPM Fix"));
+  console.log("📦 ", chalk.bold("NPM Fix"));
   console.log("");
 
   console.log("🔍 ", "Analyzing...");

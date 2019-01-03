@@ -7,7 +7,7 @@
 - Downloads dependencies again
 
 ```
-📦   NPM Fix
+📦  NPM Fix
 
 🔍  Analyzing...
 
