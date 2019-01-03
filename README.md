@@ -1,6 +1,6 @@
 # 📦 NPM Fix
 
-> A quick way to blow up reset npm dependencies in your project.
+> A quick way to reset npm dependencies in your project
 
 - Removes `package-lock.json`
 - Removes `node_modules`
